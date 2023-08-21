@@ -1,4 +1,7 @@
 # Google Advanced Data Analytics Scenario #1: Identifying Waze's users Churn Rate 
+
+![Waze Logo](https://i.ibb.co/YyBjn3B/Waze-Logo.webp)
+
 ## Scenario: 
 The Waze data team is currently developing a data analytics project aimed at increasing overall growth by preventing monthly user churn on the Waze app. For the purposes of this project, churn quantifies the number of users who have uninstalled the Waze app or stopped using the app.
 
