@@ -1,4 +1,4 @@
-# Google Advanced Data Analytics Scenario #1: Identifying Waze's users Churn Rate 
+# Google Advanced Data Analytics Scenario #3: Identifying Waze's users Churn Rate 
 
 ![Waze Logo](https://i.ibb.co/YyBjn3B/Waze-Logo.webp)
 
